@@ -1,7 +1,7 @@
 # Phase-2-project
 Repo Contents Readme King-County-Regression.pdf 
 
-student.py - jupyter notebook kc_house_data.csv - housing data Introduction In this project, we will evaluate the King County housing data set and try to predict housing prices with a linear regression model.
+untitled.py - jupyter notebook kc_house_data.csv - housing data Introduction In this project, we will evaluate the King County housing data set and try to predict housing prices with a linear regression model.
 
 Objectives Model King County housing dataset to predict housing prices Describe which features are most predictive of price Explore any other nuances in the data Explore which features give you the best deal.
 
@@ -13,4 +13,4 @@ Feature Scaling
 
 Create Models Use the selection techniques to select variables and then actually use them in the models.
 
-Interpret the model Use the model to answer our objectives. First we'll print out the final model coefficients and create a visualization to show which terms / features were the most import.
+Interpret the model Use the model to answer our objectives.
